@@ -44,7 +44,7 @@
 
 
 
-### Installation
+## Installation
 
 Here's how you can get M-Apps up and running on your local machine. From the root folder you will need to set up both the client and the server.
 
